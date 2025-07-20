@@ -26,4 +26,4 @@ jobs:
 
     - name: Run Training Script
       run: |
-        python train_model.py
+        welcome.py
