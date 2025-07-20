@@ -25,5 +25,5 @@ jobs:
     
 
     - name: Run Training Script
-      run: |
-        welcome.py
+    - run: python test/welcome.py
+
